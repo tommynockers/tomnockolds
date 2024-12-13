@@ -3,11 +3,6 @@ title: Reduce energy prices two ways with the “merit order effect”
 description: A memex entry on the topic of the merit order effect
 draft: "false"
 date: 2022-08-25
-tags:
-  - "Energy Efficiency"
-  - "Energy Market"
-  - "Good Energy"
-  - "Merit Order"
 ---
 
 The “merit order effect” is a term to describe the how the energy market operates (here in the UK, also Australia and other places) such that the addition of more renewables into the grid will lower the cost of energy overall.
@@ -54,3 +49,6 @@ For me, two profound things fall out of this.
 On the second point, If we were to reform the operation of the energy market and how the Merit Order works and prices are set, we stand to make further savings. Sure we could implement a windfall tax – after all, many windfall profits arising with energy firms are exactly the result of the Merit Order operating when gas prices rise dramatically – but a windfall tax would be blunt. It would be much more precise to simply pay the generators what they need and avoid the windfall profits in the first place.
 
 All markets are artificial and the energy market as much as any. The way it operates can, and should, be changed.
+
+---
+#Energy-Efficiency #Energy-Market #Good-Energy #Merit-Order

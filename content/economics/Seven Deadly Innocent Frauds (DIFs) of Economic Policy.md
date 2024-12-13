@@ -3,12 +3,6 @@ title: Seven Deadly Innocent Frauds (DIFs) of Economic Policy
 description: A memex entry on the topic of Seven DIFs
 draft: "false"
 date: 2021-10-10
-tags:
-  - "DIF"
-  - "Deadly Innocent Frauds"
-  - "Mint the Coin"
-  - "Modern Monetary Theory"
-  - "MMT"
 ---
 A great article on the #MintTheCoin campaign; which is a proposal to side-step the US government’s self-imposed (and weaponised) debt ceiling by having the government instruct the Mint to create a $1 trillion platinum coin. Well worth a read.
 
@@ -44,3 +38,5 @@ The reason Mosler wrote this book is stated as…
 
 But I’ve now stepped in to the first of the seven deadly innocent frauds. Something I’ll take notes on another time.
 
+---
+#DIF #Deadly-Innocent-Frauds #Mint-the-Coin #Modern-Monetary-Theory #MMT 

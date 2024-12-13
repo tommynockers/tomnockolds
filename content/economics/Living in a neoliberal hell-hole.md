@@ -3,13 +3,6 @@ title: Living in a neoliberal hell-hole
 description: A memex entry on the topic of
 draft: "false"
 date: 2024-02-02
-tags:
- - "Bill Mitchell"
- - "Macroeconomics"
- - "Mainstream Economics"
- - "MMT"
- - "Modern Monetary Theory"
- - "Neoclassical Economics"
 ---
 
 Aaron Bastani in Novara Media writing about inequality and the myths regarding the death of the high street.
@@ -57,3 +50,6 @@ Overall, the effect is that social fabric starts to fall apart. Damage is done t
 > Eventually, the strategy backfires and the outlays necessary to repair the damage outweighs the so-called ‘savings’ in the short-run.
 
 There is much more to say on this topic, especially about the response to climate change. But for another time.
+
+---
+#Bill-Mitchell #Macroeconomics #Mainstream-Economics #MMT #Modern-Monetary-Theory #Neoclassical-Economics 

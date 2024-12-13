@@ -3,16 +3,6 @@ title: Does Quantitative Easing create new money?
 description: A memex entry on the topic of quantitative easing
 draft: "false"
 date: 2022-10-22
-tags:
-  - "Bank of England"
-  - "BOE"
-  - "Bonds"
-  - Gilts
-  - MMT
-  - "Modern Monetary Theory"
-  - "National Loans Fund"
-  - QE
-  - "Quantitative Easing"
 ---
 ![[20241211_bank_of_england.jpeg]]
 
@@ -64,3 +54,5 @@ Quantitative Easing is simply an asset swap for the non-government sector. It ta
 
 I don’t believe any of these things.
 
+---
+#Bank-of-England #BOE #Bonds #Gilts #MMT #Modern-Monetary-Theory #National-Loans-Fund #QE #Quantitative-Easing

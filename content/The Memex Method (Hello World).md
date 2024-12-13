@@ -16,3 +16,6 @@ You can also listen to [Cory reading the article](https://craphound.com/news/202
 The article showcases his online, public version of a commonplace book, “_the auctorial equivalent to the artist’s sketchbook_“, and the benefits this brings.
 
 I had to look up the definition of “_auctorial_”, which means “_of or relating to authors_”.
+
+---
+#Cory-Doctorow #Memex #Second-Brain #Blogging

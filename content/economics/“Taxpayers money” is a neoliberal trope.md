@@ -3,14 +3,6 @@ title: “Taxpayers money” is a neoliberal trope
 description: A memex entry on the topic of the taxpayers money trope
 draft: "false"
 date: 2023-02-10
-tags:
-  - "Taxpayers Money"
-  - Neoliberal
-  - MMT
-  - "Modern Monetary Theory"
-  - "Margaret Thatcher"
-  - "David Cameron"
-  - "Malcolm Reavell"
 ---
 
 A common refrain, “taxpayers money”. We feel it with outrage when talking about the wasteful government programme gone awry. It helps strengthen our argument when we push for greater levels of oversight and scrutiny in public procurement.
@@ -36,3 +28,6 @@ Why are Conservatives so keen to push this line that it is taxpayers money that 
 Learn more by watching this short video:
 
 <img src="https://youtu.be/MB0bkytOdNQ?si=ErGEZoKYE5dNKS8h">
+
+---
+#Taxpayers-Money #Neoliberal #MMT #Modern-Monetary-Theory #Margaret-Thatcher #David-Cameron #Malcolm-Reavell

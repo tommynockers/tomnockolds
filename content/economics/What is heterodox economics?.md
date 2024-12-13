@@ -3,17 +3,6 @@ title: What is heterodox economics?
 description: A memex entry on the topic of mainstream economics
 draft: "false"
 date: 2023-03-15
-tags:
-  - "Bill Mitchell"
-  - "Contending Perspectives in Economics (book)"
-  - "John T Harvey"
-  - Keynes
-  - Macroeconomics
-  - "Mainstream Economics"
-  - MMT
-  - "Modern Monetary Theory"
-  - "Neoclassical Economics"
-  - "New Keynesian Economics"
 ---
 
 ### (Mostly what is mainstream economics, as this post turned out).

@@ -3,18 +3,6 @@ title: Perfect community benefits?
 description: A memex entry on the topic of community benefits from energy projects
 draft: "false"
 date: 2021-12-01
-tags:
-  - "Community Benefits"
-  - "Community Energy"
-  - "Community Power Agency"
-  - "Jarra Hicks"
-  - "Nicky Ison"
-  - "Kype Muir"
-  - "Michael Matheson"
-  - "Nicky Ison"
-  - "Scottish Government"
-  - "Social Enterprise Design"
-  - "Web Diagram"
 ---
 
 When we think of a community in the context of a local energy project, what are the optimal benefits the local community might receive? I argue the best outcome is to deliver benefits that reflect the real desires and motivations of the local community.
@@ -64,3 +52,6 @@ Often when people talk about community energy, they do so along pre-determined, 
 > **Jarra Hicks - Thesis, 2018, p.28**
 
 I could not agree more. It is better to think in broader terms than just the technology centred and market driven model of system change. Yes, there is something in that way of thinking, but there is equal validity in other ways of thinking. This is about the strength that diversity often brings and the problems that come with lack of diversity.
+
+---
+#Community-Benefits #Community-Energy #Community-Power-Agency #Jarra-Hicks #Nicky-Ison #Kype-Muir #Michael-Matheson #Scottish-Government #Social-Enterprise-Design #Web-Diagram 

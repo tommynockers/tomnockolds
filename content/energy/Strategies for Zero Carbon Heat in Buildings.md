@@ -3,7 +3,6 @@ title: Strategies for Zero Carbon Heat in Buildings
 description: A memex entry on the topic of strategies for achieving low carbon buildings
 draft: "false"
 date: 2021-10-11
-tags:
 ---
 
 ## The Folly of Hydrogen as a Source of Heat in Buildings
@@ -52,3 +51,6 @@ The headlines from the speech and the document include:
 Next month the Scottish Government will release a supply-chain delivery plan. Also next month they will announce a National Public Energy Agency to provide leadership and harness potential of scaled-up heat.
 
 I’ll work through this 155 page document and post further details in coming days and weeks.
+
+---
+#Hydrogen #Scottish-Government #Retrofit #HiB-Strategy 

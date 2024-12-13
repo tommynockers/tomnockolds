@@ -3,14 +3,6 @@ title: A Fast and Fair Transition to Clean Energy
 description: A memex entry on the topic of energy justice and community energy
 draft: "false"
 date: 2021-10-12
-tags:
-  - "Centre for Appropriate Technology"
-  - "Community Energy"
-  - "Community Power Agency"
-  - "Fast and Fair"
-  - "Jarra Hicks"
-  - "Nicky Ison"
-  - "Three Ds"
 ---
 ## Fast and Fair
 
@@ -56,3 +48,5 @@ The exact wording in the Thesis is as follows:
 
 So there you have it. The earliest known source that I am aware of of the Three ‘D’s’ of Community Energy. The second D Decentralise is listed as Distributing but that is just a synonym, meaning the same thing for intents and purposes.
 
+---
+#Centre-for-Alternative-Technology #Community-Energy #Community-Power-Agency #Fast-and-Fair #Jarra-Hicks #Nicky-Ison #Three-Ds 

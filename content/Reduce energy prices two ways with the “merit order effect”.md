@@ -14,7 +14,7 @@ The “merit order effect” is a term to describe the how the energy market ope
 
 I won’t try to re-descibe what has already been adequately described by people who are better at words and have more knowledge than me. Here’s Good Energy from [a publication](https://web.archive.org/web/20220119234434/https://www.goodenergy.co.uk/media/1194/wind-and-solar-reducing-consumer-bills-an-investigation-in-to-the-merit.pdf) put out in, probably 2015…
 
-> In order to meetthe UK’s electricity needs, there must be enough generating capacity to meet demand at any one moment in time. National demand fluctuates throughout the year and throughout the day (demand is higher in the day than at night and higher in the winter than in summer). Electricity can be produced from a variety of sources – from fossil fuel power stations burning coal or gas, to renewable generators powered by the wind or sun. Each of these will have a marginal cost associated with them – that is, the cost of generating an additional unit of electricity at any moment in time. For fossil fuel power stations, this is predominately the cost of fuel. For renewable generators, which have no fuel costs and very low maintenance costs, the marginal cost is practically zero.
+> In order to meet the UK’s electricity needs, there must be enough generating capacity to meet demand at any one moment in time. National demand fluctuates throughout the year and throughout the day (demand is higher in the day than at night and higher in the winter than in summer). Electricity can be produced from a variety of sources – from fossil fuel power stations burning coal or gas, to renewable generators powered by the wind or sun. Each of these will have a marginal cost associated with them – that is, the cost of generating an additional unit of electricity at any moment in time. For fossil fuel power stations, this is predominately the cost of fuel. For renewable generators, which have no fuel costs and very low maintenance costs, the marginal cost is practically zero.
 > 
 > As generating capacity needs to exceed demand, there are multiple combinations of generators that could be used to provide electricity. In orderto reduce the cost ofthis electricity, it is logicalto meet demand with the cheapest generators available at the time, i.e., those with the lowest marginal cost. A list of generators in ascending order of marginal cost is known as a Merit Order. Generators will be called upon according to the Merit Order to meet national demand. The Merit Order can be viewed graphically as a dispatch model.
 > 
@@ -33,14 +33,14 @@ The paper then goes on…
 
 As the title of this post promises, the merit order effect can work in two ways. Most of the time, when people talk about the merit order effect, they are talking in the context of more renewables coming onto the grid, thereby pushing out more expensive (and dirtier) forms of generation. This works and has been shown to work, such as by Good Energy when they wrote that report.
 
-> In 2014, itis estimated that wind and solar reduced the wholesale cost of electricity by  
+> In 2014, it is estimated that wind and solar reduced the wholesale cost of electricity by  
 > £1.55 billion.
 > 
 > **Good Energy, 2015**
 
 ## Less demand leads to lower prices for everybody (the second way)
 
-Notice how on the “dispatch model” charts, when more renewables come onto the grid, they push out the more expensive generators to the right. The demand point remains the same, but the price drops because the whole graph has been pushed out to the right, meaning where demand intesects with a generator will be with a lower-cost generator.
+Notice how on the “dispatch model” charts, when more renewables come onto the grid, they push out the more expensive generators to the right. The demand point remains the same, but the price drops because the whole graph has been pushed out to the right, meaning where demand intersects with a generator will be with a lower-cost generator.
 
 What if we were to simply reduce demand? Obviously, that has exactly the same effect. The intersection point is now with a lower cost generator and prices overall drop in the energy market.
 

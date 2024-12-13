@@ -9,9 +9,9 @@ Cory Doctorow’s inautural article on Medium with the title “_The Memex Metho
 
 [https://doctorow.medium.com/podcasting-the-memex-method-7b54e5a0de6d](https://doctorow.medium.com/podcasting-the-memex-method-7b54e5a0de6d)
 
-You can also listen to Cory reading the article
+You can also listen to [Cory reading the article](https://craphound.com/news/2021/05/23/the-memex-method/)
 
-![[Cory_Doctorow_Podcast_390_-_The_Memex_Method.mp3]]
+![[20210523_Cory_Doctorow_Podcast_390_-_The_Memex_Method.mp3]]
 
 The article showcases his online, public version of a commonplace book, “_the auctorial equivalent to the artist’s sketchbook_“, and the benefits this brings.
 

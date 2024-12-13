@@ -42,3 +42,6 @@ It is worth listening to the whole episode, but the key hightlights are:
 - 37 minutes: Bill explains his foray into social psychology to try to understand why these seemingly intelligent people are hanging on to ideas that clearly don’t stack up, and why they remain closed to emerging thoughts from outside their school.
 
 That is about all I have on this. Here is a tantalising article for further exploration of these topics – [Neoclassical Synthesis (Wikipedia)](https://en.m.wikipedia.org/wiki/Neoclassical_synthesis)
+
+---
+#Bill-Mitchell #Contending-Perspectives-in-Economics #John-T-Harvey #Keynes #Macroeconomics #Mainstream-Economics #MMT #Modern-Monetary-Theory #Neoclassical-Economics #New-Keynesian-Economics

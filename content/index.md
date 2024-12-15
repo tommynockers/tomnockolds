@@ -11,5 +11,5 @@ This site hosts my “memex” or “commonplace book”. What is a memex? Find 
 
 Maybe one day this site will be more about your needs than mine. Until then, I hope you find what you are looking for.
 
-This site is generally structured using tags. The two main categories are [economics](https://tomnockolds.com/economics/) and [energy](https://tomnockolds.com/energy)). There is also a [list of all tags](https://tomnockolds.com/tags/) used
+This site is generally structured using tags. There is a [list of all tags used](https://tomnockolds.com/tags/).  It also uses folders to contain the two main topics-  [economics](https://tomnockolds.com/economics/) and [energy](https://tomnockolds.com/energy)).
 

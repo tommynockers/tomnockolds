@@ -33,4 +33,4 @@ It is worth listening to the whole episode, but the key hightlights are:
 That is about all I have on this. Here is a tantalising article for further exploration of these topics – [Neoclassical Synthesis (Wikipedia)](https://en.m.wikipedia.org/wiki/Neoclassical_synthesis)
 
 ---
-#Bill-Mitchell #Contending-Perspectives-in-Economics #John-T-Harvey #Keynes #Macroeconomics #Mainstream-Economics #MMT #Modern-Monetary-Theory #Neoclassical-Economics #New-Keynesian-Economics
+#Bill-Mitchell #Contending-Perspectives-in-Economics #John-T-Harvey #Keynes #Macroeconomics #Mainstream-Economics #MMT #Modern-Monetary-Theory #Neoclassical-Economics #New-Keynesian-Economics #Economics 

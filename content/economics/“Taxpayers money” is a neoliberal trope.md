@@ -30,4 +30,4 @@ Learn more by watching this short video:
 <img src="https://youtu.be/MB0bkytOdNQ?si=ErGEZoKYE5dNKS8h">
 
 ---
-#Taxpayers-Money #Neoliberal #MMT #Modern-Monetary-Theory #Margaret-Thatcher #David-Cameron #Malcolm-Reavell
+#Taxpayers-Money #Neoliberal #MMT #Modern-Monetary-Theory #Margaret-Thatcher #David-Cameron #Malcolm-Reavell #Economics 

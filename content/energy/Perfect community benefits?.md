@@ -54,4 +54,4 @@ Often when people talk about community energy, they do so along pre-determined, 
 I could not agree more. It is better to think in broader terms than just the technology centred and market driven model of system change. Yes, there is something in that way of thinking, but there is equal validity in other ways of thinking. This is about the strength that diversity often brings and the problems that come with lack of diversity.
 
 ---
-#Community-Benefits #Community-Energy #Community-Power-Agency #Jarra-Hicks #Nicky-Ison #Kype-Muir #Michael-Matheson #Scottish-Government #Social-Enterprise-Design #Web-Diagram 
+#Community-Benefits #Community-Energy #Community-Power-Agency #Jarra-Hicks #Nicky-Ison #Kype-Muir #Michael-Matheson #Scottish-Government #Social-Enterprise-Design #Web-Diagram #Energy 

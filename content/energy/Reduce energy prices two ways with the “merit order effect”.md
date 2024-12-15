@@ -51,4 +51,4 @@ On the second point, If we were to reform the operation of the energy market and
 All markets are artificial and the energy market as much as any. The way it operates can, and should, be changed.
 
 ---
-#Energy-Efficiency #Energy-Market #Good-Energy #Merit-Order
+#Energy-Efficiency #Energy-Market #Good-Energy #Merit-Order #Energy 

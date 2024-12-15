@@ -52,4 +52,4 @@ Overall, the effect is that social fabric starts to fall apart. Damage is done t
 There is much more to say on this topic, especially about the response to climate change. But for another time.
 
 ---
-#Bill-Mitchell #Macroeconomics #Mainstream-Economics #MMT #Modern-Monetary-Theory #Neoclassical-Economics 
+#Bill-Mitchell #Macroeconomics #Mainstream-Economics #MMT #Modern-Monetary-Theory #Neoclassical-Economics  #Economics 

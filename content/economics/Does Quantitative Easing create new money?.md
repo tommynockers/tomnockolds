@@ -55,4 +55,4 @@ Quantitative Easing is simply an asset swap for the non-government sector. It ta
 I don’t believe any of these things.
 
 ---
-#Bank-of-England #BOE #Bonds #Gilts #MMT #Modern-Monetary-Theory #National-Loans-Fund #QE #Quantitative-Easing
+#Bank-of-England #BOE #Bonds #Gilts #MMT #Modern-Monetary-Theory #National-Loans-Fund #QE #Quantitative-Easing #Economics 

@@ -1,3 +1,10 @@
+---
+title: Can GB Energy be used to "generate publicly-owned revenue"?
+description: A memex entry on the topic of Great British Energy and claims made that it can generate "publicly-owned revenue"
+draft: "false"
+date: 2024-12-15
+---
+
 
  > "Great British Energy will seek to generate publicly‑owned revenue to reinvest into future energy projects, creating further benefits for the U K taxpayers, billpayers and communities."
 > 

@@ -39,4 +39,4 @@ The reason Mosler wrote this book is stated as…
 But I’ve now stepped in to the first of the seven deadly innocent frauds. Something I’ll take notes on another time.
 
 ---
-#DIF #Deadly-Innocent-Frauds #Mint-the-Coin #Modern-Monetary-Theory #MMT 
+#DIF #Deadly-Innocent-Frauds #Mint-the-Coin #Modern-Monetary-Theory #MMT #Economics 

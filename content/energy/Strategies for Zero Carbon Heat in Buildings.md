@@ -53,4 +53,4 @@ Next month the Scottish Government will release a supply-chain delivery plan. Al
 I’ll work through this 155 page document and post further details in coming days and weeks.
 
 ---
-#Hydrogen #Scottish-Government #Retrofit #HiB-Strategy 
+#Hydrogen #Scottish-Government #Retrofit #HiB-Strategy #Energy 

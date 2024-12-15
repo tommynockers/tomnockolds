@@ -12,4 +12,4 @@ One of the flawed ideas that sits behind concerns about an overloaded grid (e.g.
 The next time someone raises this concern about deployment of heat pumps, or solar panels, or electric vehicles, remind them that rapid deployment is exactly what we need. The truth is that clean technologies are not being deployed fast enough. They won’t arrive everywhere all at once and because of the fact we have *agency* and can respond to challenges in our world, as a society, we will have time to ensure these sorts of problems won’t occur.
 
 ---
-#Grid #Renewables #Heat-Pumps #EVs #Electric-Vehicles #Clean-Energy #Agency 
+#Grid #Renewables #Heat-Pumps #EVs #Electric-Vehicles #Clean-Energy #Agency #Energy 

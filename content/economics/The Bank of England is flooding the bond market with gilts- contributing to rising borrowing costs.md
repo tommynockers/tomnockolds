@@ -16,6 +16,7 @@ Sadly, we are heading the other direction - towards austerity - which is only go
 
 This great article by William Thomson of Scotonomics explains why and how [Austerity is baked into the UK](https://scotonomics.scot/austerity-in-the-uk-a-policy-framework/). 
 
-
+---
+#Bank-of-England #BOE #Austerity #Economics #Bill-Mitchell #William-Thomson #Scotonomics #Steve-Grumbine #David-Cameron #Gilts #Quantitative-Easing #Quantitative-Tightening #Bonds #Richard-Murphy
 
 

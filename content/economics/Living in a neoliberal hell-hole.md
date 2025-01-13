@@ -13,13 +13,7 @@ It is important to recognise that it is compelling, simple to explain… and dea
 > 
 > So yes, the internet has permanently changed how we shop. But that’s no excuse for town and city centres looking like something out of a [zombie movie](https://x.com/AaronBastani/status/1744732011322065365?s=20). We are implored to accept the inevitability of technological change, precisely because that depoliticises questions of who has cash to spend. High streets, and their unevenly distributed downfall, are about regional and income inequality. For decades we’ve been told that diverging incomes, by place and profession, is the cost of national success. Walk down your nearest town or city centre and decide for yourself.
 
-This struck a chord with me, so I responded at the source of where this article came to my attention (Instagram)
-
-> Yup. This is what a neoliberal hell-hole looks like. When the extractive machinery drains everything of financial value out of our towns and cities. When there is nothing left but empty wallets and broken lives. When will we say enough is enough?
-
-[https://www.instagram.com/p/C22XJZQutaG/c/17989273658609783/](https://www.instagram.com/p/C22XJZQutaG/c/17989273658609783/)
-
-Later I was reading recent posts by Bill Mitchell, that chime with this. I am not an academic, so it is great to have an academic spell out the arguments for me, with rigour.
+This chomes with a recent post by Bill Mitchell. I am not an academic, so it is great to have an academic spell out the arguments with rigour.
 
 [https://billmitchell.org/blog/?p=61530](https://billmitchell.org/blog/?p=61530)
 
@@ -49,7 +43,7 @@ Overall, the effect is that social fabric starts to fall apart. Damage is done t
 
 > Eventually, the strategy backfires and the outlays necessary to repair the damage outweighs the so-called ‘savings’ in the short-run.
 
-There is much more to say on this topic, especially about the response to climate change. But for another time.
+There is much more to say on this topic, especially about the response to climate change. 
 
 ---
 #Bill-Mitchell #Macroeconomics #Mainstream-Economics #MMT #Modern-Monetary-Theory #Neoclassical-Economics  #Economics 

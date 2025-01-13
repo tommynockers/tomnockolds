@@ -13,7 +13,7 @@ It is important to recognise that it is compelling, simple to explain… and dea
 > 
 > So yes, the internet has permanently changed how we shop. But that’s no excuse for town and city centres looking like something out of a [zombie movie](https://x.com/AaronBastani/status/1744732011322065365?s=20). We are implored to accept the inevitability of technological change, precisely because that depoliticises questions of who has cash to spend. High streets, and their unevenly distributed downfall, are about regional and income inequality. For decades we’ve been told that diverging incomes, by place and profession, is the cost of national success. Walk down your nearest town or city centre and decide for yourself.
 
-This chomes with a recent post by Bill Mitchell. I am not an academic, so it is great to have an academic spell out the arguments with rigour.
+This chimes with a recent post by Bill Mitchell. I am not an academic, so it is great to have an academic spell out the arguments with rigour.
 
 [https://billmitchell.org/blog/?p=61530](https://billmitchell.org/blog/?p=61530)
 

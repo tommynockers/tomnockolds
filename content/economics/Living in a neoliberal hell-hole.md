@@ -7,7 +7,7 @@ date: 2024-02-02
 
 Aaron Bastani in Novara Media writing about inequality and the myths regarding the death of the high street.
 
-It is important to recognise that it is compelling, simple to explain… and dead wrong to attribute the death of the high street to the internet.
+It is important to recognise that it is compelling, simple to explain… and dead wrong... to attribute the death of the high street to the internet.
 
 > For some reason, Brits now take this for granted, accepting the logic that our high streets are shit, because, well, the internet.
 > 
